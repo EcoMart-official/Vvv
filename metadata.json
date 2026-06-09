@@ -1,0 +1,8 @@
+{
+  "name": "Shekhar Unisex Salon & Academy",
+  "description": "Premium luxury unisex salon and academy providing world-class styling, hair, skin, and beauty treatments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
